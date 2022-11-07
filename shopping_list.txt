@@ -13,4 +13,4 @@ flour
 tomatoes
 cucumbers
 salad
-yoghurt
+banana yoghurt
